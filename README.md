@@ -1,4 +1,4 @@
-# :hearts: Moha_MiniProject
+# :hearts: Instagram clone
 
 ---
 
